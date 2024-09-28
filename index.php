@@ -1,5 +1,2 @@
-<? php
+My first php script
 
-echo'my first php script'
-
-?>
