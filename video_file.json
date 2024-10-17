@@ -1,18 +1,18 @@
 [
   {
-    "videoUrl": "http://appdata.free.nf/video/video1.mp4"
+    "videoUrl": "http://appdata.free.nf/video/video1.mp4",
     "title": "video1.mp4"
   },
   {
-    "videoUrl": "http://appdata.free.nf/video/video2.mp4"
+    "videoUrl": "http://appdata.free.nf/video/video2.mp4",
     "title": "video2.mp4"
   },
   {
-    "videoUrl": "http://appdata.free.nf/video/video3.mp4"
+    "videoUrl": "http://appdata.free.nf/video/video3.mp4",
     "title": "video3.mp4"
   },
   {
-    "videoUrl": "http://appdata.free.nf/video/video4.mp4"
+    "videoUrl": "http://appdata.free.nf/video/video4.mp4",
     "title": "video4.mp4"
   }
 ]
